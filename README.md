@@ -26,20 +26,6 @@ Privacy-preserving design (no screenshots, keystrokes, or cloud uploads)
 
 Single-command execution for daily use
 
-System Architecture
-Webcam
-  ↓
-Face Recognition (DeepFace embeddings)
-  ↓
-Session Detection
-  ↓
-App Usage Logging (Windows APIs)
-  ↓
-SQLite Storage
-  ↓
-Behavioral Models
-  ↓
-App Suggestions
 
 Tech Stack
 
